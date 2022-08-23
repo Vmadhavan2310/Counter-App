@@ -28,6 +28,6 @@ import News from './comp'
 const root=ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <React.StrictMode>
-    <News/>
+    <News5/>
   </React.StrictMode>
 );
