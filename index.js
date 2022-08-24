@@ -28,6 +28,10 @@ import News from './comp'
 const root=ReactDOM.createRoot(document.getElementById('root'))
 root.render(
   <React.StrictMode>
+<<<<<<< HEAD
     <News/>
+=======
+    <New/>
+>>>>>>> 963a591f940ae2977272506391361e9fd3c5be0b
   </React.StrictMode>
 );
